@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MindfulScroll</string>
+    <string name="accessibility_service_label">MindfulScroll Accessibility Service</string>
+    <string name="accessibility_service_description">Monitors app usage and blocks short-form video content to help reduce doomscrolling.</string>
+</resources>
